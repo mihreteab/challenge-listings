@@ -25,6 +25,7 @@ p {
 .offers__container {
   margin: 16px 16px 0px;
   max-width: 1110px;
+  text-align: left;
 }
 
 .primary {
